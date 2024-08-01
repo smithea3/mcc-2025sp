@@ -19,6 +19,5 @@ project:
         - file: 04-2024fa_mat_280.md
 site:
   template: book-theme
-  # options:
-  #   favicon: favicon.ico
-  #   logo: site_logo.png
+  options:
+    logo: mitchellcc_logo.png
