@@ -14,9 +14,17 @@ project:
     - title: Fall 2024 Syllabi
       children: 
         - file: 01-2024fa_mat_171_OSI1.md
+          children:
+            - file: 2024fa_mat_171_OSI1-schedule.md
         - file: 02-2024fa_mat_171_OSI2.md
+          children:
+            - file: 2024fa_mat_171_OSI2-schedule.md
         - file: 03-2024fa_mat_273.md
+          children:
+            - file: 2024fa_mat_273-schedule.md
         - file: 04-2024fa_mat_280.md
+          children:
+            - file: 2024fa_mat_280-schedule.md
 site:
   template: book-theme
   options:
