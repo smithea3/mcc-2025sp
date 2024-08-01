@@ -1,4 +1,15 @@
-# Fall 2024 Courses
+---
+title: 🏠 Home
+short_title: Home
+authors:
+  - name: Ethan A. Smith
+    affiliations:
+      - Mitchell Community College
+    email: esmith3@mitchellcc.edu
+keywords: syllabus, mathematics, MitchellCC
+---
+
+# 🏠 Home
 
 ## MAT 171-OSI1
 
