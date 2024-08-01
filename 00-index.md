@@ -1,0 +1,9 @@
+# Fall 2024 Courses
+
+## MAT 171-OSI1
+
+## MAT 171-OSI2
+
+## MAT 273-SST1 & MST1
+
+## MAT 280-SST1 & MST1
