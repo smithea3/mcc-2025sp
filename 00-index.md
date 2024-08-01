@@ -67,5 +67,5 @@ formatted_dates = generate_dates(start_date, end_date, desired_weekdays)
 
 # Print the list of dates
 for date in formatted_dates:
-    print(date)
+    print('**'+date+'**'+'\n')
 ```
