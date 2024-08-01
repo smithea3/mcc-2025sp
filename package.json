@@ -1,19 +1,18 @@
 {
     "name": "nodejs-template",
     "version": "1.0.0",
-    "description": "Node.js template with npm for codespaces.",
-    "main": "index.js",
+    "description": "Node.js Template with npm for Codespaces.",
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
+       "myST": "pip install mystmd"
+     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/swanspire/nodejs-npm-template.git"
+      "url": "git+https://github.com/smithea3/mcc_2024fa.git"
     },
-    "author": "Swanspire <swanspire@lond.one>",
+    "author": "Ethan A. Smith <smithea3@outlook.com>",
     "license": "MIT",
     "bugs": {
-      "url": "https://github.com/swanspire/nodejs-npm-template/issues"
+      "url": "https://github.com/smithea3/mcc_2024fa/issues"
     },
-    "homepage": "https://github.com/swanspire/nodejs-npm-template#readme"
+    "homepage": "https://github.com/smithea3/mcc_2024fa"
   }
