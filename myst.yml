@@ -29,3 +29,4 @@ site:
   template: book-theme
   options:
     logo: mitchellcc_logo.png
+    outline_maxdepth: 1
