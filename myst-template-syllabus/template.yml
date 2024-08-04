@@ -1,0 +1,34 @@
+jtex: v1
+title: syllabus
+description: My template to generating a PDF syllabus from myST Markdown.
+version: 1.0.0
+license: CC-BY-4.0
+thumbnail: Plain_Latex_Thumbnail.png
+source: https://github.com/smithea3
+authors:
+  - name: Ethan A. Smith <esmith3@mitchellcc.edu>
+    website: https://smithea3.github.io
+    affiliations:
+      - Mitchell Community College
+tags:
+  - paper
+parts:
+  - id: abstract
+    required: false
+    description: >
+      A good abstract will begin with a short description of the problem being
+      addressed, briefly describe the new data or analyses, then briefly states
+      the main conclusion(s) and how they are supported and uncertainties.
+doc:
+  - id: title
+    required: true
+  - id: bibliography
+options:
+  - type: boolean
+    id: draft
+    description: Mark the document as draft
+files:
+  - template.tex
+packages:
+  - amsmath
+myst: v1
