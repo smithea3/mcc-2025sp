@@ -81,12 +81,14 @@ start_date = datetime(2024, 8, 19)
 end_date = datetime(2024, 12, 16)
 
 # Define the desired weekdays
-desired_weekdays = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday']
+desired_weekdays = ['Monday', 'Wednesday']
 
 # Generate the list of dates
 formatted_dates = generate_dates(start_date, end_date, desired_weekdays)
 
 # Print the list of dates
 for date in formatted_dates:
-    print('**'+date+'**'+'\n')
+    print(
+        '```{card} '+'\n'+':header: **'+date+'**\n'+'* Content'+'\n'+'```'+'\n'
+         )
 ```
