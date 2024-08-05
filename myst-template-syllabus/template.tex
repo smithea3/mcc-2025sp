@@ -3,13 +3,30 @@
 [# else #]
 \documentclass{article}
 [# endif #]
+\usepackage{geometry, fancyhdr, lastpage}
 
 % You should have an imports section
 [- IMPORTS -]
 
 % Set document format
-\setlength{\parindent}{0pt}
-\setlength{\parskip}{6pt}%
+\setlength{\parindent}{0pt} % remove indent for paragraph
+\setlength{\parskip}{6pt}   % change paragraph skip
+\setcounter{secnumdepth}{0} % remove section numbering
+
+\geometry{
+    letterpaper,
+    left=0.5in,
+    right=0.5in,
+    top=0.75in,
+    bottom=1in
+ }
+
+ % Page setup
+\pagestyle{fancy}
+\fancyhead{} % clear header
+\fancyfoot{} % clear footer
+\fancyhead[R]{[-doc.title-]}
+\fancyfoot[R]{Page \thepage\,of\,\pageref{LastPage}}
 
 % Define document parts/options
 \title{[-doc.title-]}
