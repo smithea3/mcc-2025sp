@@ -4,74 +4,177 @@ short_title: MAT 280 (2024FA) Schedule
 keywords: schedule, mathematics, MitchellCC
 ---
 
-**Monday, August 19**
-- First Day of Class
+```{card} 
+:header: **Monday, August 19**
+* Content
+```
 
-**Wednesday, August 21**
+```{card} 
+:header: **Wednesday, August 21**
+* Content
+```
 
-**Monday, August 26**
+```{card} 
+:header: **Monday, August 26**
+* Content
+```
 
-**Wednesday, August 28**
+```{card} 
+:header: **Wednesday, August 28**
+* Content
+```
 
-**Monday, September 02**
+```{card} 
+:header: **Monday, September 02**
+* Content
+```
 
-**Wednesday, September 04**
+```{card} 
+:header: **Wednesday, September 04**
+* Content
+```
 
-**Monday, September 09**
+```{card} 
+:header: **Monday, September 09**
+* Content
+```
 
-**Wednesday, September 11**
+```{card} 
+:header: **Wednesday, September 11**
+* Content
+```
 
-**Monday, September 16**
+```{card} 
+:header: **Monday, September 16**
+* Content
+```
 
-**Wednesday, September 18**
+```{card} 
+:header: **Wednesday, September 18**
+* Content
+```
 
-**Monday, September 23**
+```{card} 
+:header: **Monday, September 23**
+* Content
+```
 
-**Wednesday, September 25**
+```{card} 
+:header: **Wednesday, September 25**
+* Content
+```
 
-**Monday, September 30**
+```{card} 
+:header: **Monday, September 30**
+* Content
+```
 
-**Wednesday, October 02**
+```{card} 
+:header: **Wednesday, October 02**
+* Content
+```
 
-**Monday, October 07**
+```{card} 
+:header: **Monday, October 07**
+* Content
+```
 
-**Wednesday, October 09**
+```{card} 
+:header: **Wednesday, October 09**
+* Content
+```
 
-**Monday, October 14**
+```{card} 
+:header: **Monday, October 14**
+* Content
+```
 
-**Wednesday, October 16**
+```{card} 
+:header: **Wednesday, October 16**
+* Content
+```
 
-**Monday, October 21**
+```{card} 
+:header: **Monday, October 21**
+* Content
+```
 
-**Wednesday, October 23**
+```{card} 
+:header: **Wednesday, October 23**
+* Content
+```
 
-**Monday, October 28**
+```{card} 
+:header: **Monday, October 28**
+* Content
+```
 
-**Wednesday, October 30**
+```{card} 
+:header: **Wednesday, October 30**
+* Content
+```
 
-**Monday, November 04**
+```{card} 
+:header: **Monday, November 04**
+* Content
+```
 
-**Wednesday, November 06**
+```{card} 
+:header: **Wednesday, November 06**
+* Content
+```
 
-**Monday, November 11**
+```{card} 
+:header: **Monday, November 11**
+* Content
+```
 
-**Wednesday, November 13**
+```{card} 
+:header: **Wednesday, November 13**
+* Content
+```
 
-**Monday, November 18**
+```{card} 
+:header: **Monday, November 18**
+* Content
+```
 
-**Wednesday, November 20**
+```{card} 
+:header: **Wednesday, November 20**
+* Content
+```
 
-**Monday, November 25**
+```{card} 
+:header: **Monday, November 25**
+* Content
+```
 
-**Wednesday, November 27**
+```{card} 
+:header: **Wednesday, November 27**
+* Content
+```
 
-**Monday, December 02**
+```{card} 
+:header: **Monday, December 02**
+* Content
+```
 
-**Wednesday, December 04**
+```{card} 
+:header: **Wednesday, December 04**
+* Content
+```
 
-**Monday, December 09**
+```{card} 
+:header: **Monday, December 09**
+* Content
+```
 
-**Wednesday, December 11**
+```{card} 
+:header: **Wednesday, December 11**
+* Content
+```
 
-**Monday, December 16**
-- Last Day of Class
+```{card} 
+:header: **Monday, December 16**
+* Content
+```
