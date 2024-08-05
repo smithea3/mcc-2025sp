@@ -11,13 +11,28 @@ keywords: syllabus, mathematics, MitchellCC
 
 # 🏠 Home
 
-## MAT 171-OSI1
+::::{grid} 1 1 2 3
 
-## MAT 171-OSI2
+:::{card}
+:header: MAT 171-OSI1
+[Go to MAT 171-OSI1 Course Syllabus.](https://smithea3.github.io/mcc_2024fa/fa-mat-171-osi1)
+:::
 
-## MAT 273-SST1 & MST1
+:::{card}
+:header: MAT 171-OSI2
+[Go to MAT 171-OSI2 Course Syllabus.](https://smithea3.github.io/mcc_2024fa/fa-mat-171-osi2)
+:::
 
-## MAT 280-SST1 & MST1
+:::{card}
+:header: MAT 273-SST1 & MST1
+[Go to MAT 273 Course Syllabus.](https://smithea3.github.io/mcc_2024fa/fa-mat-273)
+:::
+
+:::{card}
+:header: MAT 280-SST1 & MST1
+[Go to MAT 280 Course Syllabus.](https://smithea3.github.io/mcc_2024fa/fa-mat-280)
+:::
+::::
 
 ## Helpful Code
 The following code allows the user to generate a list of dates from the start date to the end date and do so using specific days of the week.
