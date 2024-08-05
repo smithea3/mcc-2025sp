@@ -11,26 +11,32 @@ keywords: syllabus, mathematics, MitchellCC
 
 # 🏠 Home
 
-::::{grid} 1 1 2 3
+## At-a-Glance 
+
+::::{grid} 2 2
 
 :::{card}
 :header: MAT 171-OSI1
-[Go to MAT 171-OSI1 Course Syllabus.](https://smithea3.github.io/mcc_2024fa/fa-mat-171-osi1)
+* [MAT 171-OSI1 Syllabus](https://smithea3.github.io/mcc_2024fa/fa-mat-171-osi1)
+
+* [MAT 171-OSI1 Schedule](https://smithea3.github.io/mcc_2024fa/2024fa-mat-171-osi1-schedule)
 :::
 
 :::{card}
 :header: MAT 171-OSI2
-[Go to MAT 171-OSI2 Course Syllabus.](https://smithea3.github.io/mcc_2024fa/fa-mat-171-osi2)
+* [MAT 171-OSI2 Syllabus](https://smithea3.github.io/mcc_2024fa/fa-mat-171-osi2)
+
+* [MAT 171-OSI2 Schedule](https://smithea3.github.io/mcc_2024fa/2024fa-mat-171-osi2-schedule)
 :::
 
 :::{card}
 :header: MAT 273-SST1 & MST1
-[Go to MAT 273 Course Syllabus.](https://smithea3.github.io/mcc_2024fa/fa-mat-273)
+[MAT 273 Syllabus](https://smithea3.github.io/mcc_2024fa/fa-mat-273)
 :::
 
 :::{card}
 :header: MAT 280-SST1 & MST1
-[Go to MAT 280 Course Syllabus.](https://smithea3.github.io/mcc_2024fa/fa-mat-280)
+[MAT 280 Syllabus](https://smithea3.github.io/mcc_2024fa/fa-mat-280)
 :::
 ::::
 
