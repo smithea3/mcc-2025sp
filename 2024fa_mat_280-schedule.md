@@ -4,6 +4,10 @@ short_title: MAT 280 (2024FA) Schedule
 keywords: schedule, mathematics, MitchellCC
 ---
 
+:::{important} Reminder of Meetings
+This is a reminder that this class in a synchronous class where the instructor is in-person in Statesville (VB 106) on Monday and in-person on Mooresville (Tice 109) on Wednesday. The other section of the course is still expected to attend in-person and the instructor will appear virtually using the audio-visual equipment in the classroom.
+:::
+
 ```{card} 
 :header: **Monday, August 19**
 * Content

@@ -215,7 +215,7 @@ keywords: schedule, mathematics, MitchellCC, precalculus
 * **On-campus Midterm Exam**
 :::{important} Midterm Exam Information
 :class: dropdown
-**Date and time:** Friday, October 11, 2024 from 8 a.m. – 10:30 a.m.
+**Date and time:** Friday, October 11, 2024 from 9 a.m. – 11:30 a.m.
 
 **Location:** Vocational Building, room 213
 
@@ -483,7 +483,7 @@ keywords: schedule, mathematics, MitchellCC, precalculus
 * **On-campus Final Exam**
 :::{important} Final Exam Information
 :class: dropdown
-**Date and time:** Friday, December 13, 2024 from 8 a.m. – 10:30 a.m.
+**Date and time:** Friday, December 13, 2024 from 9 a.m. – 11:30 a.m.
 
 **Location:** Vocational Building, room 213
 
