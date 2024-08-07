@@ -1,435 +1,510 @@
 ---
 title: MAT 171-OSI1 (2024FA) Course Schedule
 short_title: MAT 171-OSI1 (2024FA) Schedule
-keywords: schedule, mathematics, MitchellCC
+keywords: schedule, mathematics, MitchellCC, precalculus
 ---
 
 ```{card} 
 :header: **Monday, August 19**
-* Content
+* First Day of Class
+* Read the Course Syllabus
+* Register for MyMathLab in OpenLMS
 ```
 
 ```{card} 
 :header: **Tuesday, August 20**
-* Content
+* Work on Section 2.1
 ```
 
 ```{card} 
 :header: **Wednesday, August 21**
-* Content
+* Complete Section 2.1
+* Complete Worksheet #1
 ```
 
 ```{card} 
 :header: **Thursday, August 22**
-* Content
+* Work on Section 2.2
 ```
 
 ```{card} 
 :header: **Friday, August 23**
-* Content
+* Complete on Section 2.2
 ```
 
 ```{card} 
 :header: **Monday, August 26**
-* Content
+* Work on Section 2.3
+* **Submission Deadline for Worksheet #1: Scanning Activity**
 ```
 
 ```{card} 
 :header: **Tuesday, August 27**
-* Content
+* Complete Section 2.3
 ```
 
 ```{card} 
 :header: **Wednesday, August 28**
-* Content
+* Work on Section 2.4
 ```
 
 ```{card} 
 :header: **Thursday, August 29**
-* Content
+* Complete Section 2.4
 ```
 
 ```{card} 
 :header: **Friday, August 30**
-* Content
+* Work on Section 2.5
 ```
 
 ```{card} 
 :header: **Monday, September 02**
-* Content
+* Complete Section 2.5
 ```
 
 ```{card} 
 :header: **Tuesday, September 03**
-* Content
+* Complete Worksheet #2
 ```
 
 ```{card} 
 :header: **Wednesday, September 04**
-* Content
+* Catch-up Day for Unit 1
 ```
 
 ```{card} 
 :header: **Thursday, September 05**
-* Content
+* Review for Unit 1 Test
 ```
 
 ```{card} 
 :header: **Friday, September 06**
-* Content
+* Take Unit 1 Test or Catch-up
 ```
 
 ```{card} 
 :header: **Monday, September 09**
-* Content
+* **Submission Deadline for Unit 1 Test**
+* **Submission Deadline for Unit 1 MyMathLab for full credit.** Attempts for Unit 1 MyMathLab submitted after this date will recieve a 25% point deduction.
 ```
 
 ```{card} 
 :header: **Tuesday, September 10**
-* Content
+* Complete Section 1.5
 ```
 
 ```{card} 
 :header: **Wednesday, September 11**
-* Content
+* Complete Section 3.1
 ```
 
 ```{card} 
 :header: **Thursday, September 12**
-* Content
+* Work on Section 3.2
 ```
 
 ```{card} 
 :header: **Friday, September 13**
-* Content
+* Complete Section 3.2
 ```
 
 ```{card} 
 :header: **Monday, September 16**
-* Content
+* Work on Section 11.1
 ```
 
 ```{card} 
 :header: **Tuesday, September 17**
-* Content
+* Complete Section 11.1
 ```
 
 ```{card} 
 :header: **Wednesday, September 18**
-* Content
+* Work on Section 11.2
 ```
 
 ```{card} 
 :header: **Thursday, September 19**
-* Content
+* Complete Section 11.2
+* Complete Worksheet #3
 ```
 
 ```{card} 
 :header: **Friday, September 20**
-* Content
+* Catch-up Day
+* Review for Unit 2 Test
 ```
 
 ```{card} 
 :header: **Monday, September 23**
-* Content
+* Review for Unit 2 Test or Take Unit 2 Test
+* **Submission Deadline for Worksheet #3**
 ```
 
 ```{card} 
 :header: **Tuesday, September 24**
-* Content
+* **Submission Deadline for Unit 2 Test**
+* **Submission Deadline for Unit 2 MyMathLab for full credit.** Attempts for Unit 2 MyMathLab submitted after this date will recieve a 25% point deduction.
 ```
 
 ```{card} 
 :header: **Wednesday, September 25**
-* Content
+* Work on Section 3.3
 ```
 
 ```{card} 
 :header: **Thursday, September 26**
-* Content
+* Complete Section 3.3
 ```
 
 ```{card} 
 :header: **Friday, September 27**
-* Content
+* Work on Section 3.4
 ```
 
 ```{card} 
 :header: **Monday, September 30**
-* Content
+* Complete Section 3.4
 ```
 
 ```{card} 
 :header: **Tuesday, October 01**
-* Content
+* Complete Section 3.5
 ```
 
 ```{card} 
 :header: **Wednesday, October 02**
-* Content
+* Complete Worksheet #4.
 ```
 
 ```{card} 
 :header: **Thursday, October 03**
-* Content
+* Review for Unit 3 Test
 ```
 
 ```{card} 
 :header: **Friday, October 04**
-* Content
+* Catch-up or Take Unit 3 Test
 ```
 
 ```{card} 
 :header: **Monday, October 07**
-* Content
+* **Submission Deadline for Worksheet #4***
+* **Submission Deadline for Unit 3 Test**
+* **Submission Deadline for Unit 3 MyMathLab for full credit.** Attempts for Unit 3 MyMathLab submitted after this date will recieve a 25% point deduction.
 ```
 
 ```{card} 
 :header: **Tuesday, October 08**
-* Content
+* Review for the in-person Midterm Exam
 ```
 
 ```{card} 
 :header: **Wednesday, October 09**
-* Content
+* Review for the in-person Midterm Exam
 ```
 
 ```{card} 
 :header: **Thursday, October 10**
-* Content
+* Review for the in-person Midterm Exam
 ```
 
 ```{card} 
 :header: **Friday, October 11**
-* Content
+* **On-campus Midterm Exam**
+:::{important} Midterm Exam Information
+:class: dropdown
+**Date and time:** Friday, October 11, 2024 from 8 a.m. – 10:30 a.m.
+
+**Location:** Vocational Building, room 213
+
+**Sections Covered (in textbook order):**
+
+**Calculator Inactive / Calculator Active:** The test will be given in two parts. The first part is the calculator inactive portion of the test. The second is the calculator active portion of the test.
+
+**Can You Write on the Test?** Yes
+
+**Special Notes:** You will be given a bubble on which you will bubble all of your answers. No work on the test or scratch sheet of paper will be graded.
+
+**What Will the Test Look Like?** The same software that is used to write questions in MyMathLab is used to generate questions for the Midterm Exam. Therefore, the questions, look, and feel of the Midterm Exam will be similar in wording and nature to the questions in MyMathLab.
+
+**Curved Grades?** The Midterm Exam is not curved.
+
+**Materials Allowed:**
+* One two-sided 8.5-inch by 11-inch (US Letter Paper) sheet of paper (lined or unlined) with handwritten notes, formulas, or references. 
+* All information on your allowed reference sheet must be handwritten. 
+* You may use both sides of the Reference Sheet for the Final Exam. Otherwise, you will not be allowed to use the reference sheet you created.
+* An approved TI calculator (TI-84 or equivalent). The calculator must have been approved for use if it is not a TI-84 calculator or an equivalent. If your calculator has a Computer Algebra System (CAS) built into it, you will not be allowed to use it on the Midterm Exam.
+* A laptop or tablet with a screen 11 inches or greater in diagonal length for using the Desmos Graphing Calculator. 
+* The Vocational Building Room 213 has computers in it if you do not have a laptop or tablet that meets these specifications for using Desmos.
+:::
 ```
 
 ```{card} 
 :header: **Monday, October 14**
-* Content
+* **Fall Break | No In-person Classes | College Is Open** 
+* *Suggestion: Get ahead by working on Section 4.1*
 ```
 
 ```{card} 
 :header: **Tuesday, October 15**
-* Content
+* **Fall Break | No In-person Classes | College Is Open** 
+* *Suggestion: Get ahead by working on Section 4.1*
 ```
 
 ```{card} 
 :header: **Wednesday, October 16**
-* Content
+* Complete on Section 4.1
 ```
 
 ```{card} 
 :header: **Thursday, October 17**
-* Content
+* Complete Section 4.2
 ```
 
 ```{card} 
 :header: **Friday, October 18**
-* Content
+* Work on Section 4.3
 ```
 
 ```{card} 
 :header: **Monday, October 21**
-* Content
+* Complete Section 4.3
 ```
 
 ```{card} 
 :header: **Tuesday, October 22**
-* Content
+* Work on Section 4.4
+* Complete Worksheet #5
 ```
 
 ```{card} 
 :header: **Wednesday, October 23**
-* Content
+* Complete Section 4.4
 ```
 
 ```{card} 
 :header: **Thursday, October 24**
-* Content
+* Work on Section 4.7A
 ```
 
 ```{card} 
 :header: **Friday, October 25**
-* Content
+* Complete Section 4.7A
 ```
 
 ```{card} 
 :header: **Monday, October 28**
-* Content
+* Catch-up Day
+* Review for Unit 4 Test
 ```
 
 ```{card} 
 :header: **Tuesday, October 29**
-* Content
+* Take Unit 4 Test
 ```
 
 ```{card} 
 :header: **Wednesday, October 30**
-* Content
+* Work on Section 4.5
 ```
 
 ```{card} 
 :header: **Thursday, October 31**
-* Content
+* Complete Section 4.5
 ```
 
 ```{card} 
 :header: **Friday, November 01**
-* Content
+* Work on Section 4.6
 ```
 
 ```{card} 
 :header: **Monday, November 04**
-* Content
+* Complete Section 4.6
+* **Submission Deadline for Unit 4 Test**
+* **Submission Deadline for Unit 4 MyMathLab for full credit.** Attempts for Unit 4 MyMathLab submitted after this date will recieve a 25% point deduction.
 ```
 
 ```{card} 
 :header: **Tuesday, November 05**
-* Content
+* Work on Section 4.7B
 ```
 
 ```{card} 
 :header: **Wednesday, November 06**
-* Content
+* Work on Section 4.7B
+* Complete Worksheet #6
 ```
 
 ```{card} 
 :header: **Thursday, November 07**
-* Content
+* Work on Section 11.5
 ```
 
 ```{card} 
 :header: **Friday, November 08**
-* Content
+* Complete Section 11.5
 ```
 
 ```{card} 
 :header: **Monday, November 11**
-* Content
+* Review for Unit 5 Test 
+* Take Unit 5 Test
+* **Submission Deadline for Worksheet #6**
 ```
 
 ```{card} 
 :header: **Tuesday, November 12**
-* Content
+* Complete Section 5.1
 ```
 
 ```{card} 
 :header: **Wednesday, November 13**
-* Content
+* Work on Section 5.2
 ```
 
 ```{card} 
 :header: **Thursday, November 14**
-* Content
+* Complete Section 5.2
 ```
 
 ```{card} 
 :header: **Friday, November 15**
-* Content
+* Complete Section 5.2
+* Work on Worksheet #7
 ```
 
 ```{card} 
 :header: **Monday, November 18**
-* Content
+* Work on Section 5.3
+* **Submission Deadline for Worksheet #7**
+* **Submission Deadline for Unit 5 Test**
+* **Submission Deadline for Unit 5 MyMathLab for full credit.** Attempts for Unit 5 MyMathLab submitted after this date will recieve a 25% point deduction.
 ```
 
 ```{card} 
 :header: **Tuesday, November 19**
-* Content
+* Complete Section 5.3
 ```
 
 ```{card} 
 :header: **Wednesday, November 20**
-* Content
+* Work on Section 5.4
 ```
 
 ```{card} 
 :header: **Thursday, November 21**
-* Content
+* Complete Section 5.4
 ```
 
 ```{card} 
 :header: **Friday, November 22**
-* Content
+* Work on Section 5.5
 ```
 
 ```{card} 
 :header: **Monday, November 25**
-* Content
+* Complete Section 5.5
 ```
 
 ```{card} 
 :header: **Tuesday, November 26**
-* Content
+* Work on Section 5.6
 ```
 
 ```{card} 
 :header: **Wednesday, November 27**
-* Content
+* **Thanksgiving Holiday | No In-person Classes | College Open**
 ```
 
 ```{card} 
 :header: **Thursday, November 28**
-* Content
+* **Thanksgiving Holiday | No Classes | College Closed**
 ```
 
 ```{card} 
 :header: **Friday, November 29**
-* Content
+* **Thanksgiving Holiday | No Classes | College Closed**
 ```
 
 ```{card} 
 :header: **Monday, December 02**
-* Content
+* Complete Section 5.6
+* Complete Worksheet #8
 ```
 
 ```{card} 
 :header: **Tuesday, December 03**
-* Content
+* Work on Section 5.7
 ```
 
 ```{card} 
 :header: **Wednesday, December 04**
-* Content
+* Complete Section 5.7
 ```
 
 ```{card} 
 :header: **Thursday, December 05**
-* Content
+* Work on Section 5.8
 ```
 
 ```{card} 
 :header: **Friday, December 06**
-* Content
+* Complete Section 5.8
 ```
 
 ```{card} 
 :header: **Monday, December 09**
-* Content
+* Review for Unit 6 Test and\or Take Unit 6 Test
+* **Submission Deadline for Worksheet #8**
 ```
 
 ```{card} 
 :header: **Tuesday, December 10**
-* Content
+* Take Unit 6 Test
 ```
 
 ```{card} 
 :header: **Wednesday, December 11**
-* Content
+* Review for Final Exam
+* **Submission Deadline for Unit 6 Test**
+* **Submission Deadline for Unit 6 MyMathLab for full credit.** Attempts for Unit 6 MyMathLab submitted after this date will recieve a 25% point deduction.
 ```
 
 ```{card} 
 :header: **Thursday, December 12**
-* Content
+* Review for Final Exam
 ```
 
 ```{card} 
 :header: **Friday, December 13**
-* Content
-```
+* **On-campus Final Exam**
+:::{important} Final Exam Information
+:class: dropdown
+**Date and time:** Friday, December 13, 2024 from 8 a.m. – 10:30 a.m.
 
-```{card} 
-:header: **Monday, December 16**
-* Content
+**Location:** Vocational Building, room 213
+
+**Sections Covered (in textbook order):**
+
+**Calculator Inactive / Calculator Active:** The test will be given in two parts. The first part is the calculator inactive portion of the test. The second is the calculator active portion of the test.
+
+**Can You Write on the Test?** Yes
+
+**Special Notes:** You will be given a bubble on which you will bubble all of your answers. No work on the test or scratch sheet of paper will be graded.
+
+**What Will the Test Look Like?** The same software that is used to write questions in MyMathLab is used to generate questions for the Final Exam. Therefore, the questions, look, and feel of the Final Exam will be similar in wording and nature to the questions in MyMathLab.
+
+**Curved Grades?** The Final Exam is not curved. This is a common examination given to all students who take MAT-171 at Mitchell Community College. Moreover, the grades on the Final Exam are used for institutional assessment of student learning outcomes. Therefore, curves and "bonus points" are not awarded on the Final Exam for MAT-171.
+
+**Materials Allowed:**
+* One two-sided 8.5-inch by 11-inch (US Letter Paper) sheet of paper (lined or unlined) with handwritten notes, formulas, or references. 
+* All information on your allowed reference sheet must be handwritten. 
+* You may use both sides of the Reference Sheet for the Final Exam. Otherwise, you will not be allowed to use the reference sheet you created.
+* An approved TI calculator (TI-84 or equivalent). The calculator must have been approved for use if it is not a TI-84 calculator or an equivalent. If your calculator has a Computer Algebra System (CAS) built into it, you will not be allowed to use it on the Midterm Exam.
+* A laptop or tablet with a screen 11 inches or greater in diagonal length for using the Desmos Graphing Calculator. 
+* The Vocational Building Room 213 has computers in it if you do not have a laptop or tablet that meets these specifications for using Desmos.
+:::
 ```
