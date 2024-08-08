@@ -4,6 +4,70 @@ short_title: MAT 171-OSI1 (2024FA) Schedule
 keywords: schedule, mathematics, MitchellCC, precalculus
 ---
 
+:::{important}Due Dates At-a-Glance
+:class: dropdown
+This is a list of the due dates and holidays/breaks throughout the semester. Should any due dates in the semester change, notification of these changes will be sent via email and posted in the Announcement section of OpenLSM for the course.
+
+**Monday, August 26**
+* Submission Deadline for Worksheet #1: Scanning Activity
+
+**Monday, September 09**
+* Submission Deadline for Unit 1 Test
+* Submission Deadline for Unit 1 MyMathLab for full credit. Attempts for Unit 1 MyMathLab submitted after this date will recieve a 25% point deduction.
+
+**Monday, September 23**
+* Submission Deadline for Worksheet #3
+
+**Tuesday, September 24**
+* Submission Deadline for Unit 2 Test
+* Submission Deadline for Unit 2 MyMathLab for full credit. Attempts for Unit 2 MyMathLab submitted after this date will recieve a 25% point deduction.
+
+**Monday, October 07**
+* Submission Deadline for Worksheet #4
+* Submission Deadline for Unit 3 Test
+* Submission Deadline for Unit 3 MyMathLab for full credit. Attempts for Unit 3 MyMathLab submitted after this date will recieve a 25% point deduction.
+
+**Friday, October 11**
+* On-campus Midterm Exam
+
+**Monday, October 14**
+* Fall Break | No In-person Classes | College Is Open
+
+**Tuesday, October 15**
+* Fall Break | No In-person Classes | College Is Open
+
+**Monday, November 04**
+* Submission Deadline for Unit 4 Test
+* Submission Deadline for Unit 4 MyMathLab for full credit. Attempts for Unit 4 MyMathLab submitted after this date will recieve a 25% point deduction.
+
+**Monday, November 11**
+* Submission Deadline for Worksheet #6
+
+**Monday, November 18**
+* Submission Deadline for Worksheet #7
+* Submission Deadline for Unit 5 Test
+* Submission Deadline for Unit 5 MyMathLab for full credit. Attempts for Unit 5 MyMathLab submitted after this date will recieve a 25% point deduction.
+
+**Wednesday, November 27**
+* Thanksgiving Holiday | No In-person Classes | College Open
+
+**Thursday, November 28**
+* Thanksgiving Holiday | No Classes | College Closed
+
+**Friday, November 29**
+* Thanksgiving Holiday | No Classes | College Closed
+
+**Monday, December 09**
+* Submission Deadline for Worksheet #8
+
+**Wednesday, December 11**
+* Submission Deadline for Unit 6 Test
+* Submission Deadline for Unit 6 MyMathLab for full credit. Attempts for Unit 6 MyMathLab submitted after this date will recieve a 25% point deduction.
+
+**Friday, December 13**
+* On-campus Final Exam
+:::
+
 ```{card} 
 :header: **Monday, August 19**
 * First Day of Class
