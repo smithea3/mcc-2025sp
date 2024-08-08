@@ -29,4 +29,5 @@ site:
   template: book-theme
   options:
     logo: mitchellcc_logo.png
+    favicon: favicon.ico
     outline_maxdepth: 1
