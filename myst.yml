@@ -19,10 +19,16 @@ project:
         - file: 02-2024fa_mat_171_OSI2.md
           children:
             - file: 2024fa_mat_171_OSI2-schedule.md
-        - file: 03-2024fa_mat_273.md
+        - file: 03-2024fa_mat_273_SST1.md
           children:
             - file: 2024fa_mat_273-schedule.md
-        - file: 04-2024fa_mat_280.md
+        - file: 04-2024fa_mat_273_MST1.md
+          children:
+            - file: 2024fa_mat_273-schedule.md
+        - file: 05-2024fa_mat_280_SST1.md
+          children:
+            - file: 2024fa_mat_280-schedule.md
+        - file: 06-2024fa_mat_280_MST1.md
           children:
             - file: 2024fa_mat_280-schedule.md
 site:
