@@ -31,13 +31,15 @@ keywords: syllabus, mathematics, MitchellCC
 
 :::{card}
 :header: MAT 273-SST1 & MST1
-* [MAT 273 Syllabus](https://smithea3.github.io/mcc_2024fa/fa-mat-273)
+* [MAT 273-SST1 Syllabus](https://smithea3.github.io/mcc_2024fa/fa-mat-273-sst1)
+* [MAT 273-MST1 Syllabus](https://smithea3.github.io/mcc_2024fa/fa-mat-273-mst1)
 * [MAT 273 Course Schedule](https://smithea3.github.io/mcc_2024fa/2024fa-mat-273-schedule)
 :::
 
 :::{card}
 :header: MAT 280-SST1 & MST1
-[MAT 280 Syllabus](https://smithea3.github.io/mcc_2024fa/fa-mat-280)
+* [MAT 280-SST1 Syllabus](https://smithea3.github.io/mcc_2024fa/fa-mat-280-sst1)
+* [MAT 280-MST1 Syllabus](https://smithea3.github.io/mcc_2024fa/fa-mat-280-mst1)
 :::
 ::::
 
