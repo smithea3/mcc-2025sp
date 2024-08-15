@@ -48,6 +48,7 @@ The following code allows the user to generate a list of dates from the start da
 :::{note}
 This code was used to generate the course schedules on this site.
 :::
+
 ```python
 from datetime import datetime, timedelta
 
