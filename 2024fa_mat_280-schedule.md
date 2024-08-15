@@ -10,7 +10,9 @@ This is a reminder that this class in a synchronous class where the instructor i
 
 ```{card} 
 :header: **Monday, August 19**
-* Content
+* First Day of Class
+* Course Information / Syllabus in Brief
+* What is Linear Algebra?
 ```
 
 ```{card} 
