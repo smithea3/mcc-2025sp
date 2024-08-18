@@ -124,7 +124,8 @@ This is a list of the due dates and holidays/breaks throughout the semester. Sho
 
 ```{card} 
 :header: **Monday, September 02**
-* Complete Section 2.5
+* **Labor Day (College Closed)**
+* *Suggested for Pacing: Complete Section 2.5*
 ```
 
 ```{card} 

@@ -53,8 +53,9 @@ This is a reminder that this class in a synchronous class where the instructor i
 
 ```{card} 
 :header: **Monday, September 02**
-* Catch-up on Material Day
-* Review for Chapter 11 Test
+* **Labor Day (College Closed)**
+* *Suggested: Catch-up on Material Day*
+* *Suggested: Review for Chapter 11 Test*
 ```
 
 ```{card} 
