@@ -10,6 +10,10 @@ This is a list of the due dates and holidays/breaks throughout the semester. Sho
 
 **Monday, August 26**
 * Submission Deadline for Worksheet #1: Scanning Activity
+* Submission Deadline for Week 1 Reflection Journal
+
+**Monday, September 2**
+* Submission Deadline for Week 2 Reflection Journal
 
 **Monday, September 09**
 * Submission Deadline for Unit 1 Test
