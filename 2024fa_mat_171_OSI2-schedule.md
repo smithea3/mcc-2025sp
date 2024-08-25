@@ -41,6 +41,9 @@ This is a list of the due dates and holidays/breaks throughout the semester. Sho
 **Tuesday, October 15**
 * Fall Break | No In-person Classes | College Is Open
 
+**Monday, October 28**
+* Submission Deadline for Worksheet #5
+
 **Monday, November 04**
 * Submission Deadline for Unit 4 Test
 * Submission Deadline for Unit 4 MyMathLab for full credit. Attempts for Unit 4 MyMathLab submitted after this date will recieve a 25% point deduction.
@@ -367,6 +370,7 @@ This is a list of the due dates and holidays/breaks throughout the semester. Sho
 
 ```{card} 
 :header: **Monday, October 28**
+* Submission Deadline for Worksheet #5
 * Catch-up Day
 * Review for Unit 4 Test
 ```

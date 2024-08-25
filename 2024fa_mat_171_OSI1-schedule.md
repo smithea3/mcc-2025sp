@@ -3,6 +3,7 @@ title: MAT 171-OSI1 (2024FA) Course Schedule
 short_title: MAT 171-OSI1 (2024FA) Schedule
 keywords: schedule, mathematics, MitchellCC, precalculus
 ---
+
 :::{important}Due Dates At-a-Glance
 :class: dropdown
 This is a list of the due dates and holidays/breaks throughout the semester. Should any due dates in the semester change, notification of these changes will be sent via email and posted in the Announcement section of OpenLSM for the course.
@@ -10,6 +11,9 @@ This is a list of the due dates and holidays/breaks throughout the semester. Sho
 **Monday, August 26**
 * Submission Deadline for Worksheet #1: Scanning Activity
 * Submission Deadline for Week 1 Reflection Journal
+
+**Monday, September 2**
+* Submission Deadline for Week 2 Reflection Journal
 
 **Monday, September 09**
 * Submission Deadline for Worksheet #2
@@ -36,6 +40,9 @@ This is a list of the due dates and holidays/breaks throughout the semester. Sho
 
 **Tuesday, October 15**
 * Fall Break | No In-person Classes | College Is Open
+
+**Monday, October 28**
+* Submission Deadline for Worksheet #5
 
 **Monday, November 04**
 * Submission Deadline for Unit 4 Test
@@ -120,7 +127,7 @@ This is a list of the due dates and holidays/breaks throughout the semester. Sho
 
 ```{card} 
 :header: **Friday, August 30**
-* Complete on Section 2.5
+* Work on Section 2.5
 ```
 
 ```{card} 
@@ -282,7 +289,7 @@ This is a list of the due dates and holidays/breaks throughout the semester. Sho
 * **On-campus Midterm Exam**
 :::{important} Midterm Exam Information
 :class: dropdown
-**Date and time:** Friday, October 11, 2024 from 9 a.m. – 11:30 a.m.
+**Date and time:** Friday, October 11, 2024 from 12 p.m. – 2:30 p.m.
 
 **Location:** Vocational Building, room 213
 
@@ -363,6 +370,7 @@ This is a list of the due dates and holidays/breaks throughout the semester. Sho
 
 ```{card} 
 :header: **Monday, October 28**
+* Submission Deadline for Worksheet #5
 * Catch-up Day
 * Review for Unit 4 Test
 ```
@@ -550,7 +558,7 @@ This is a list of the due dates and holidays/breaks throughout the semester. Sho
 * **On-campus Final Exam**
 :::{important} Final Exam Information
 :class: dropdown
-**Date and time:** Friday, December 13, 2024 from 9 a.m. – 11:30 a.m.
+**Date and time:** Friday, December 13, 2024 from 12 p.m. – 2:30 p.m.
 
 **Location:** Vocational Building, room 213
 
@@ -570,7 +578,7 @@ This is a list of the due dates and holidays/breaks throughout the semester. Sho
 * One two-sided 8.5-inch by 11-inch (US Letter Paper) sheet of paper (lined or unlined) with handwritten notes, formulas, or references. 
 * All information on your allowed reference sheet must be handwritten. 
 * You may use both sides of the Reference Sheet for the Final Exam. Otherwise, you will not be allowed to use the reference sheet you created.
-* An approved TI calculator (TI-84 or equivalent). The calculator must have been approved for use if it is not a TI-84 calculator or an equivalent. If your calculator has a Computer Algebra System (CAS) built into it, you will not be allowed to use it on the Midterm Exam.
+* An approved TI calculator (TI-84 or equivalent). The calculator must have been approved for use if it is not a TI-84 calculator or an equivalent. If your calculator has a Computer Algebra System (CAS) built into it, you will not be allowed to use it on the Final Exam.
 * A laptop or tablet with a screen 11 inches or greater in diagonal length for using the Desmos Graphing Calculator. 
 * The Vocational Building Room 213 has computers in it if you do not have a laptop or tablet that meets these specifications for using Desmos.
 :::
