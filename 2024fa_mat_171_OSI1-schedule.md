@@ -12,6 +12,7 @@ This is a list of the due dates and holidays/breaks throughout the semester. Sho
 * Submission Deadline for Week 1 Reflection Journal
 
 **Monday, September 09**
+* Submission Deadline for Worksheet #2
 * Submission Deadline for Unit 1 Test
 * Submission Deadline for Unit 1 MyMathLab for full credit. Attempts for Unit 1 MyMathLab submitted after this date will recieve a 25% point deduction.
 
@@ -150,6 +151,7 @@ This is a list of the due dates and holidays/breaks throughout the semester. Sho
 
 ```{card} 
 :header: **Monday, September 09**
+* Submission Deadline for Worksheet #2
 * **Submission Deadline for Unit 1 Test**
 * **Submission Deadline for Unit 1 MyMathLab for full credit.** Attempts for Unit 1 MyMathLab submitted after this date will recieve a 25% point deduction.
 ```
