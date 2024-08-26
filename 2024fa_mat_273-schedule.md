@@ -28,27 +28,27 @@ This is a reminder that this class in a synchronous class where the instructor i
 
 ```{card} 
 :header: **Thursday, August 22**
-* Section 11.5: Lines and Planes in Space
+* Section 1.4: The Cross Product
 ```
 
 ```{card} 
 :header: **Monday, August 26**
-* Section 11.6: Surfaces in Pace — Day 1
+* Section 11.5: Lines and Planes in Space
 ```
 
 ```{card} 
 :header: **Tuesday, August 27**
-* Section 11.6: Surface in Space — Day 2
+* Section 11.6: Surfaces in Space
 ```
 
 ```{card} 
 :header: **Wednesday, August 28**
-* Section 11.7: Sylindrical and Spherical Coordinates — Day 1
+* Section 11.7: Cylindrical and Spherical Coordinates — Day 1
 ```
 
 ```{card} 
 :header: **Thursday, August 29**
-* Section 11.7: Sylindrical and Spherical Coordinates — Day 2
+* Section 11.7: Cylindrical and Spherical Coordinates — Day 2
 ```
 
 ```{card} 

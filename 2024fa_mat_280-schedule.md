@@ -17,22 +17,22 @@ This is a reminder that this class in a synchronous class where the instructor i
 
 ```{card} 
 :header: **Wednesday, August 21**
-* Content
+* Section 1.1: Introduction to Systems of Linear Equations
 ```
 
 ```{card} 
 :header: **Monday, August 26**
-* Content
+* 1.2: Gauss-Jordan Elimination
 ```
 
 ```{card} 
 :header: **Wednesday, August 28**
-* Content
+* Section 1.3: Applications of Systems of Linear Equations
 ```
 
 ```{card} 
 :header: **Monday, September 02**
-* Content
+* Elimination in {math}`Z_{n}`
 ```
 
 ```{card} 
