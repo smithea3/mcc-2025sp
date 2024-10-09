@@ -87,100 +87,104 @@ This is a reminder that this class in a synchronous class where the instructor i
 
 ```{card} 
 :header: **Wednesday, October 09**
-* Content
+* Section 4.1
 ```
 
 ```{card} 
 :header: **Monday, October 14**
-* Content
+* **Fall Break | No Class | College Open**
 ```
 
 ```{card} 
 :header: **Wednesday, October 16**
-* Content
+* Sections 4.2 and 4.3 Lecture Video
+* No in-person class meeting; Watch lecture video posted online.
 ```
 
 ```{card} 
 :header: **Monday, October 21**
-* Content
+* Sectsion 4.3, 4.4, and 4.5
 ```
 
 ```{card} 
 :header: **Wednesday, October 23**
-* Content
+* Section 4.7
 ```
 
 ```{card} 
 :header: **Monday, October 28**
-* Content
+* Sections 5.1 and 5.2
 ```
 
 ```{card} 
 :header: **Wednesday, October 30**
-* Content
+* Section 5.3
 ```
 
 ```{card} 
 :header: **Monday, November 04**
-* Content
+* Section 5.4
 ```
 
 ```{card} 
 :header: **Wednesday, November 06**
-* Content
+* Unit 3 Test: In-class Test No Calculator
+* Take-home Portion of Unit 3 Test due **Mondy, November 11, 2024, by 5 p.m.**
 ```
 
 ```{card} 
 :header: **Monday, November 11**
-* Content
+* Section 6.1
 ```
 
 ```{card} 
 :header: **Wednesday, November 13**
-* Content
+* Sections 6.2-6.3
 ```
 
 ```{card} 
 :header: **Monday, November 18**
-* Content
+* Section 6.4
 ```
 
 ```{card} 
 :header: **Wednesday, November 20**
-* Content
+* Section 7.1
 ```
 
 ```{card} 
 :header: **Monday, November 25**
-* Content
+* Section 7.2
 ```
 
 ```{card} 
 :header: **Wednesday, November 27**
-* Content
+* **No Class | Thanksgiving Holiday | College Open**
 ```
 
 ```{card} 
 :header: **Monday, December 02**
-* Content
+* Section 7.3
 ```
 
 ```{card} 
 :header: **Wednesday, December 04**
-* Content
+* Unit 4 Test Review
 ```
 
 ```{card} 
 :header: **Monday, December 09**
-* Content
+* Unit 4 Test
+    * Both sections will be given in class.
 ```
 
 ```{card} 
 :header: **Wednesday, December 11**
-* Content
+* Review for Final Exam
 ```
 
 ```{card} 
 :header: **Monday, December 16**
-* Content
+* Final Exam
+    * Both sections will be given in class.
 ```
