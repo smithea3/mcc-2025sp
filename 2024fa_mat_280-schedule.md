@@ -103,12 +103,12 @@ This is a reminder that this class in a synchronous class where the instructor i
 
 ```{card} 
 :header: **Monday, October 21**
-* Sectsion 4.3, 4.4, and 4.5
+* Sections 4.4 and 4.5
 ```
 
 ```{card} 
 :header: **Wednesday, October 23**
-* Section 4.7
+* Section 4.6 and 4.7
 ```
 
 ```{card} 
@@ -139,7 +139,7 @@ This is a reminder that this class in a synchronous class where the instructor i
 
 ```{card} 
 :header: **Wednesday, November 13**
-* Sections 6.2-6.3
+* Sections 6.2 and 6.3
 ```
 
 ```{card} 
