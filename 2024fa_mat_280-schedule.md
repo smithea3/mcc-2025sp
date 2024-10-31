@@ -130,13 +130,13 @@ This is a reminder that this class in a synchronous class where the instructor i
 ```{card} 
 :header: **Monday, October 28**
 * Sections 5.1 and 5.2: The Dot Product and Inner Product Spaces
-* [MAT-280 | 10-28-2024 | Lecture Video]
+* [MAT-280 | 10-28-2024 | Lecture Video](https://youtu.be/gwHK8zrflhM?si=aJeyvPHjyXEfoBws)
 ```
 
 ```{card} 
 :header: **Wednesday, October 30**
 * Section 5.3: Orthonormal Bases: Gram-Schmidt Process
-* [MAT-280 | 10-30-2024 | Lecture Video]
+* [MAT-280 | 10-30-2024 | Lecture Video](https://youtu.be/GrZ86XT55eY?si=dUIrOTYp1UrvbVoy)
 ```
 
 ```{card} 
