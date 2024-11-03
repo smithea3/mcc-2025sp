@@ -265,6 +265,7 @@ Chapter 12 Test will have a take-home portion for the calculator active portion.
 
 ```{card} 
 :header: **Tuesday, November 12**
+* **Submission Deadline for Chapter 14 Take-home Test**
 * Section 15.2: Line Integrals – Day 1
 ```
 
