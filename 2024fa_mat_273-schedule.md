@@ -306,7 +306,7 @@ Chapter 12 Test will have a take-home portion for the calculator active portion.
 
 ```{card} 
 :header: **Tuesday, November 26**
-* Section 15.7: Divergence Theorem
+* Section 15.7: Divergence Theorem – Day 1
 ```
 
 ```{card} 
@@ -321,7 +321,7 @@ Chapter 12 Test will have a take-home portion for the calculator active portion.
 
 ```{card} 
 :header: **Monday, December 02**
-* **Thanksgiving Holiday | No Classes | College Closed**
+* Section 15.7: Divergence Theorem – Day 2
 ```
 
 ```{card} 
