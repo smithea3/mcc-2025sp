@@ -1,6 +1,6 @@
 ---
-title: MAT 171-OSI1 (2024FA) Course Schedule
-short_title: MAT 171-OSI1 (2024FA) Schedule
+title: MAT 171-OSI2 (2024FA) Course Schedule
+short_title: MAT 171-OSI2 (2024FA) Schedule
 keywords: schedule, mathematics, MitchellCC, precalculus
 ---
 
