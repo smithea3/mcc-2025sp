@@ -560,9 +560,7 @@ This is a list of the due dates and holidays/breaks throughout the semester. Sho
 :class: dropdown
 **Date and time:** Friday, December 13, 2024 from 12 p.m. – 2:30 p.m.
 
-**Location:** Vocational Building, room 213
-
-**Sections Covered (in textbook order):**
+**Location:** Main Building, room 104
 
 **Calculator Inactive / Calculator Active:** The test will be given in two parts. The first part is the calculator inactive portion of the test. The second is the calculator active portion of the test.
 
