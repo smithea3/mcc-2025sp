@@ -31,7 +31,7 @@ files:
   - template.tex
 packages:
   - amsmath
-  - geometry
   - fancyhdr
+  - geometry
   - lastpage
 myst: v1

@@ -30,22 +30,14 @@
 \fancyfoot[L]{Date Generated: \today}
 
 % Define document parts/options
-\title{[-doc.title-]}
+\title{[-doc.short_title-]}
 
 \begin{document}
 
-\begin{center}\huge [-doc.title-]\end{center}
-
-[# if parts.abstract #]
-\begin{abstract}
-[-parts.abstract-]
-\end{abstract}
-[# endif #]
-
+\begin{center}
+    {\huge Mitchell Community College} \\[6pt]
+    {\large [-doc.title-]}
+\end{center}
 [-CONTENT-]
-
-[# if doc.bibliography #]
-\bibliography{[- doc.bibliography | join(", ") -]}
-[# endif #]
 
 \end{document}
