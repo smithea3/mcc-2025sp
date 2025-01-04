@@ -3,7 +3,13 @@
 [# else #]
 \documentclass{article}
 [# endif #]
-\usepackage{geometry, fancyhdr, lastpage}
+\usepackage{
+    amsmath,
+    fancyhdr,
+    geometry,
+    lastpage,
+    xcolor
+}
 
 % You should have an imports section
 [- IMPORTS -]
@@ -12,6 +18,12 @@
 \setlength{\parindent}{0pt} % remove indent for paragraph
 \setlength{\parskip}{6pt}   % change paragraph skip
 \setcounter{secnumdepth}{0} % remove section numbering
+\makeatletter
+\renewcommand\section{\@startsection{section}{1}{0pt}%
+  {-3.5ex \@plus -1ex \@minus -.2ex}% Space before
+  {.2ex \@plus.2ex}% Space after
+  {\normalfont\Large\bfseries}} % Style of the section
+\makeatother
 
 % Page setup
  \geometry{
@@ -29,8 +41,28 @@
 \fancyfoot[R]{Page \thepage\,of\,\pageref{LastPage}}
 \fancyfoot[L]{Date Generated: \today}
 
+% Define colors
+\definecolor{mybgcolor}{RGB}{240, 240, 255} % Light pastel blue
+\definecolor{mybordercolor}{RGB}{0, 51, 102} % Navy blue
+
+\setlength{\FrameSep}{8pt} % Padding inside the frame
+\setlength{\OuterFrameSep}{6pt} % Margin outside the frame
+\renewenvironment{framed}[1][]{%
+  \def\FrameCommand{%
+    \hspace{1pt}%
+    {\color{mybordercolor}\vrule width 2pt} % Border color and thickness
+    \hspace{1pt}%
+    \fboxsep=\FrameSep%
+    \colorbox{mybgcolor}%
+  }%
+  \MakeFramed {\advance\hsize-\width \FrameRestore}%
+}{%
+  \endMakeFramed
+}
+
 % Define document parts/options
 \title{[-doc.short_title-]}
+% \abstract{[-parts.abstract-]}
 
 \begin{document}
 
@@ -39,6 +71,7 @@
     {\Large [-doc.description-]} \\[6pt]
     {\Large [-doc.short_title-]}
 \end{center}
+
 [-CONTENT-]
 
 \end{document}

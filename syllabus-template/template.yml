@@ -23,6 +23,8 @@ doc:
   - id: title
     required: true
   - id: bibliography
+  - id: short_title
+  - id: description
 options:
   - type: boolean
     id: draft
