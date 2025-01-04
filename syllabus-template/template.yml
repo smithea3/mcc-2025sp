@@ -34,4 +34,5 @@ packages:
   - fancyhdr
   - geometry
   - lastpage
+  - xcolor
 myst: v1
