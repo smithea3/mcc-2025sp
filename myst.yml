@@ -12,6 +12,8 @@ project:
     - file: 00-index.md
     - file: 01-2025sp_mat_152_epb1.md
     - file: 02-2025sp_mat_152_ssb2.md
+    - file: 03-2025sp_mat_171_osi2.md
+    - file: 04-2025sp_mat_272_sst1.md
 site:
   template: book-theme
   options:
